@@ -1,0 +1,29 @@
+﻿  blat.cpp
+D:\курсовой 3 курс\1\blat\blat\UpdateWindow.h(9,107): warning C4267: =: преобразование из "size_t" в "LONG"; возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\UpdateWindow.h(68,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\UpdateWindow.h(68,57): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\ButtonAction.h(104,22): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\ButtonAction.h(126,23): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(29,45): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(49,20): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(121,79): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(122,81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(123,79): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(125,23): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(368,22): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(422,21): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\blat.cpp(37,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\blat.cpp(69,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\blat.cpp(121,14): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+D:\курсовой 3 курс\1\blat\blat\blat.cpp(125,14): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+  Создание кода
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(170): warning C4715: ClashOfFigure: значение возвращается не при всех путях выполнения
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(210): warning C4715: CreateFigure: значение возвращается не при всех путях выполнения
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(36): warning C4715: CreateLoadFugire: значение возвращается не при всех путях выполнения
+D:\курсовой 3 курс\1\blat\blat\GameFunction.h(449): warning C4715: ControlKey: значение возвращается не при всех путях выполнения
+D:\курсовой 3 курс\1\blat\blat\ButtonAction.h(142): warning C4715: ControlButton: значение возвращается не при всех путях выполнения
+  178 of 181 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  blat.vcxproj -> D:\курсовой 3 курс\1\blat\x64\Release\blat.exe
